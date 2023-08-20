@@ -24,5 +24,5 @@ I'm an IT Student named Jean R at Ynov Toulouse Campus, my age doesn't matter, a
 _How dolphin sleep ?_
 {: .fs-5 }
 Since dolphin need to be in water to keep hydrated, and have oxygen to breath they found a peculiar way of sleeping, they will use one half of their brain for managing is whole body while the other half rest, and they will change the half when needed. To do so they'll use a third smaller "brain" which manage all this.
- - Bernard Werber. 2009. Nouvelle encyclopédie du savoir relatif et absolu
+ - Bernard Werber. 2009. Nouvelle encyclopédie du savoir relatif et absolu.
 {: .fw-500}

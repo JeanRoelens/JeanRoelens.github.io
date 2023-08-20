@@ -5,7 +5,7 @@
 layout: home
 nav_exclude: true
 ---
-# Hello there ! And welcome to my blog.
+# Hello there, and welcome to my blog.
 
 Deep dive right now in some of my personnal professional experience here : [Experience]({% link docs/Experience/experience.md %})
 
