@@ -7,4 +7,4 @@ permalink: /Personnal_Project
 has-toc: false
 ---
 
-# Personnal project :
+# Personnal project:

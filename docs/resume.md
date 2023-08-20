@@ -18,7 +18,7 @@ nav_order: 4
 ## Summary
 ***
 
-Currently IT student in Ynov Toulouse Campus, i'm passionate about IT subject in every domain but mainly data and reverse engineering. I love to learn how things works at the root but also to see bigger pictures, i try to keep my mind open to learn new things everyday even if it's futile.
+Currently IT student in Ynov Toulouse Campus, I'm passionate about IT subject in every domain but mainly data and reverse engineering. I love to learn how things works at the root but also to see bigger pictures, I try to keep my mind open to learn new things everyday even if it's futile.
 
 ## Education
 ***
@@ -132,6 +132,5 @@ Delivery of various goods to medical services.
 
 ## References
 ***
-
 
 Available upon request.
