@@ -9,7 +9,7 @@ permalink: /Experience/capgemini_internship
 
 ## Introduction
 
-Yeah you've read correctly, Airbus not Capgemini, well it's a bit more complicated than that, here's how it works :
+Yeah you've read correctly, Airbus not Capgemini, well it's a bit more complicated than that, here's how it works:
 
 CapgeminI is a digital service company, founded in 1967 by Serge Kampf (it was known as Sogeti), to be more precise it's actually one of the biggest DSC in the world, with no less than 50 branches all around the globe : Australia, China, Denmark, France, I ndia, Norway etc...
 
